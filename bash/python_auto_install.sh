@@ -25,7 +25,7 @@ pip3 install matplotlib &&
 pip3 install stop-words &&
 pip3 install notebook &&
 pip3 install seaborn &&
-pip3 install joblib &&
+pip3 install joblib 
 
 ##  Install Docker for Ubuntu 16.04
 
